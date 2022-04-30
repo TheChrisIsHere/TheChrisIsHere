@@ -4,7 +4,7 @@ Hi there, I'm <a href="https://www.youtube.com/channel/UCgBkvlymJN38qFTDqSDIJhA"
 </h3>
 
 <h2 align="center">
-I'm a OP Discord, Whatsapp, Twitter Bot Dev. Also A Noice Unity And Ue 5 User. !
+I'm a OP Discord, Whatsapp, Twitter Bot Dev. Also A Noice Unity And Ue 5 User!!
 </h2> 
 
 I love the entire process of developing and creating various discord bots, games, etc.
