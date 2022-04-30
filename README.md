@@ -11,9 +11,9 @@ I love the entire process of developing and creating various discord bots, games
 
 ### 🤝 Connect with me:
 
-<a href="https://twitter.com/ChrisCoder69"><img align="left" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" width="21px"/></a>
-<a href="https://discord.gg/Jj9PXZ7tyN"><img align="left" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" width="21px"/></a>
-<a href="https://www.youtube.com/channel/UCgBkvlymJN38qFTDqSDIJhA"><img align="left" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube Channel" width="21px"/></a>
+<a href="https://twitter.com/ChrisCoder69"><img align="left" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" width="125"/></a>
+<a href="https://discord.gg/Jj9PXZ7tyN"><img align="left" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" width="125"/></a>
+<a href="https://www.youtube.com/channel/UCgBkvlymJN38qFTDqSDIJhA"><img align="left" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube Channel" width="125"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
